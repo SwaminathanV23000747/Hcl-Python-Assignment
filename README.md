@@ -19,3 +19,15 @@
 9.Merge two dictionaries
 
 10.Fibonacci series using recursion
+
+# Python Function Assignments: -
+1.Write a function calculate(a, b, operation) that performs addition, subtraction, multiplication, or division based on the supplied operation.
+
+2.Write a function sum_numbers(*args) that accepts any number of arguments and returns their sum.
+
+3.Write a function employee(**args) that accepts employee information such as name, ID, department and salary, then displays the information.
+
+4.Write a function remove_duplicates(lst) that returns a list containing only unique elements while preserving their original order.
+
+
+5.Using a lambda function, sort a list of tuples based on the second element. Example: [(1,5), (2,3), (4,1)].
